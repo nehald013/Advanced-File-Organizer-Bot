@@ -27,6 +27,7 @@ Install dependencies
 pip install watchdog
 Run the app
 python file_organizer.py
-Requirements
+
+>Requirements
 watchdog
 Each project includes clean UI, error handling, and is beginner-friendly yet practical for real-world use.
